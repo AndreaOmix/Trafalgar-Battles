@@ -1,0 +1,5 @@
+1. The system shall send an email to confirm the registration to the user containing the details of the tournament which are the day and the prize.
+
+2. The system shall sort the tournaments according to the filters specified by the user, which are the game and the date range.
+
+3. The system shall close the registrations to the tournament when the expiration date comes.
