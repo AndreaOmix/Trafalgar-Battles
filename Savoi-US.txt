@@ -1,0 +1,11 @@
+1. As an organizer user,
+I want to create tournaments while specifying the prize and the date,
+So that I can have compliant registrations
+
+2. As a registered user,
+I want to check the tournament prize and date,
+So that I can decide whether to register or not.
+
+3. As a registered user,
+I want to see all my active registrations,
+So that I can delete them and check again their details.
